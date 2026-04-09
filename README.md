@@ -1,4 +1,5 @@
 # CodeAlpha_PhishingAwareness
+
 Project Overview
 This project is part of my cybersecurity internship. It focuses on educating users about phishing attacks and how to prevent them.
 
