@@ -19,6 +19,9 @@ Points to Learn
 * Avoid sharing sensitive information
 * Use Two-Factor Authentication
 
+ Real-World Application
+This project can help individuals and organizations understand and prevent phishing attacks in real-life scenarios.
+ 
  Video Explanation
 (Add your video link here)
 
