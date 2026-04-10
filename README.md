@@ -26,5 +26,25 @@ This project can help individuals and organizations understand and prevent phish
  Video Explanation
 (Add your video link here)
 
-Created by
+Command Injection Vulnerability
+
+Description  
+This vulnerability occurs when user input is executed directly as a system command.
+
+Risk  
+Attackers can execute malicious commands, leading to system compromise.
+
+Example Attack  
+Input:
+file.txt; rm -rf *
+
+ Fix  
+.Avoid using os.system()  
+.Use subprocess.run() safely  
+. Validate user input
+
+Video Explanation
+add link
+
+  Created by
 Anaele Chizoba Olivia
